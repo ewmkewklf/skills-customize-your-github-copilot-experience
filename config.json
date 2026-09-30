@@ -58,6 +58,34 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-apis",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Create a small API with routes, request handling, and JSON responses using FastAPI.",
+      "path": "assignments/fastapi-rest-apis",
+      "dueDate": "2026-10-07",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "embedded-sw-c",
+      "title": "Embedded SW with C",
+      "description": "Create a small embedded-style C program that reads sensor-like values and reacts using conditionals and reusable logic.",
+      "path": "assignments/embedded-sw-c",
+      "dueDate": "2026-10-07",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.c",
+          "type": "c"
+        }
+      ]
     }
   ]
 }
